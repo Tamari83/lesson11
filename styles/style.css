@@ -1,0 +1,12 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.my-header-img{
+    background-image: url(../img/header-poster.jpg);
+    width: 100%;
+    height: 720px;
+    margin: 0 auto;
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
